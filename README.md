@@ -13,6 +13,19 @@ Implement the paper "Maximum Entropy Inverse Reinforcement Learning" - (Ziebart 
 - 2-D Maze
 
 
-
-### Results: Linear Programming IRL-Discrete Gridworld
+## Results
+#### Linear Programming IRL - Discrete Gridworld
 ![](lp_results_1.PNG)
+
+#### Max Entropy IRL - Discrete Gridworld
+![](maxent_results_1.PNG)
+
+#### Linear Programming IRL - Mountain Car
+![](lp_results_2.PNG)
+
+#### Linear Programming IRL - Continuous Gridworld
+![](lp_results_3.PNG)
+
+#### Max Entropy IRL for 2-D Maze
+![](maxent_results_2.PNG)
+
