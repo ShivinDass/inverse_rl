@@ -15,3 +15,4 @@ Implement the paper "Maximum Entropy Inverse Reinforcement Learning" - (Ziebart 
 
 
 ### Results: Linear Programming IRL-Discrete Gridworld
+![](lp_results_1.PNG)
