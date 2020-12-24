@@ -8,8 +8,8 @@ Implement the paper "Algorithms for Inverse Reinforcement Learning" - (Ng & Russ
 - Large State Space: Mountain Car
 - Through Sampled Trajectories: Continuous Gridworld
 
-Implement the paper "Maximum Entropy Inverse Reinforcement Learning" - (Ziebart et al. 2008) present results for,
-- imple Gridworld
+Implement the paper "Maximum Entropy Inverse Reinforcement Learning" - (Ziebart et al. 2008) and replicate results for,
+- Simple Gridworld
 - 2-D Maze
 
 
