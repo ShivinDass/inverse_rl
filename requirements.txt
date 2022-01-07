@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # Paper1_Experiment1/LinearProgrammingGridWorldSmallStates.py: 206
-cvxopt == 1.2.3
+cvxopt == 1.2.7
 
 # Paper1_Implementation/lp_mCar/Modified/calcValueFunc.py: 1
 # Paper1_Implementation/lp_mCar/Modified/lp_mountainCar.py: 4
