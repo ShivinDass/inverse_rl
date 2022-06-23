@@ -12,7 +12,7 @@ Implement the paper "Maximum Entropy Inverse Reinforcement Learning" - (Ziebart 
 - Simple Gridworld
 - 2-D Maze
 
-
+<!-- Project Slides: https://docs.google.com/presentation/d/1AWFvX9gJo-zOEUKXb7btw6uewzU_UlEXoNEeBiDgTe8/edit#slide=id.g7a603d1201_0_45 -->
 ## Results
 #### Linear Programming IRL - Discrete Gridworld
 ![](lp_results_1.PNG)
