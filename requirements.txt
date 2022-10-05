@@ -49,7 +49,7 @@ mdp == 3.5
 # test_mc.py: 1
 # test_objectworld.py: 8
 # value_iteration.py: 8
-numpy == 1.17.2
+numpy == 1.22.0
 
 # Paper2/maze.py: 8
 parrotprediction-openai-envs == 2.1.0
